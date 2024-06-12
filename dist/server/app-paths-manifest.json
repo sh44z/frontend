@@ -1,3 +1,6 @@
 {
-  "/(propertiesPage)/slonesqflat/page": "app/(propertiesPage)/slonesqflat/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/(propertiesPage)/slonesqflat/page": "app/(propertiesPage)/slonesqflat/page.js",
+  "/page": "app/page.js",
+  "/central-london/page": "app/central-london/page.js"
 }
