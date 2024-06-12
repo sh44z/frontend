@@ -16,7 +16,7 @@ const page = () => {
                     src={ssf1}
                     width={1000}
                     height={600}
-                    alt='ssq'
+                    alt='sloane sq'
                     className="w-full h-full object-cover"
                 />
             </div>
@@ -25,7 +25,7 @@ const page = () => {
                     src={ssf2}
                     width={500}
                     height={300}
-                    alt='ssq'
+                    alt='sloane sq'
                     className="w-full h-full object-cover"
                 />
             </div>
@@ -34,7 +34,7 @@ const page = () => {
                     src={ss3}
                     width={500}
                     height={300}
-                    alt='ssq'
+                    alt='sloane sq'
                     className="w-full h-full object-cover"
                 />
             </div>
