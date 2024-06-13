@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 * {
-    font-family: 'Cereal, Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue"', sans-serif;
+    font-family: 'Cereal, Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue', sans-serif;
 }
 
 
