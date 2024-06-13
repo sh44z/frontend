@@ -45,7 +45,7 @@ const page = () => {
             About this space
               In the heart of Constable Country, on the Essex Way, nestled amongst farmers fields and woodland you will find The Willows.
 
-              A perfect balance of rustic and contemporary, The Willows provides a rural get away with all the modern comforts. WIFI, Smart TV's, air con, jacuzzi bath, private outdoor hot tub and plenty of parking.
+              A perfect balance of rustic and contemporary, The Willows provides a rural get away with all the modern comforts. WIFI, Smart TV, air con, jacuzzi bath, private outdoor hot tub and plenty of parking.
               It is positioned 5 minutes from an A12 link, 10 minutes from Colchester town and less than an hour from London.
           </p>
         </div>
